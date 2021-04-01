@@ -1,0 +1,14 @@
+{
+  "name": "is-svg-test-case",
+  "version": "1.0.0",
+  "description": "Test failing detection",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Ludovico Fischer",
+  "license": "MIT",
+  "dependencies": {
+    "is-svg": "4.3.1"
+  }
+}
